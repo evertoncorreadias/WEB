@@ -1,0 +1,41 @@
+body{
+    background-color: #d6d0c8;
+}
+h1{
+    color: rgb(119, 0, 255);
+    text-align: center;
+    text-decoration: dotted;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    
+
+}
+h3{
+    color: #7700ff;
+    text-decoration: double;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+button{
+    background-color: rgb(119, 0, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+    font-style: italic;
+    color: antiquewhite;
+
+
+
+}
+form {
+
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border-radius: 1em;
+}
+label{
+    color:rgb(119, 0, 255) ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}

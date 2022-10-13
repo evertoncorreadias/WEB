@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding='UTF-8'?> 
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>O signo de Áries compreende os apaixonados pela vida, pelo movimento e não temem nada!</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Por outro lado, o signo de Touro fala sobre paciência, obstinação e possessividade.</descricao>
+
+    </signo>
+
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gemeos.</signoNome>
+        <descricao>O signo de Gêmeos traz os mais falantes de todo o Zodíaco, indivíduos com muita curiosidade e inquietação.</descricao>
+
+    </signo>
+
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Cancer</signoNome>
+        <descricao>Acima de tudo, quem é do signo de Câncer é extremamente sensível, dedicado e leal. Pode contar com eles para tudo!</descricao>
+
+    </signo>
+
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leao</signoNome>
+        <descricao>Sem dúvida, os do signo de Leão são os mais vaidosos do Zodíaco e possuem uma força e coragem de outro mundo.</descricao>
+
+    </signo>
+
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Em virtude da praticidade, os que nascem sob o signo de Virgem são meticulosos, organizados e observadores.</descricao>
+
+    </signo>
+
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Os do signo de Libra têm como forte característica a diplomacia, a sensatez e a sede por harmonia.</descricao>
+
+    </signo>
+
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpiao</signoNome>
+        <descricao>Em contrapartida, o signo de Escorpião nos traz intensidade, mistério e intuição à flor da pele!</descricao>
+
+    </signo>
+
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitario</signoNome>
+        <descricao>Em contrapartida, o signo de Escorpião nos traz intensidade, mistério e intuição à flor da pele!</descricao>
+
+    </signo>
+
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricornio</signoNome>
+        <descricao>O signo de Capricórnio traz ao Zodíaco e aos seus nativos o bom senso, a disciplina e a ambição.</descricao>
+
+    </signo>
+
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquario</signoNome>
+        <descricao>Em suma, o signo de Aquário aponta para a revolução, o mundo das ideias e das causas humanitárias.</descricao>
+
+    </signo>
+
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao> O signo de Peixes, que marca pessoas com forte imaginação, empatia e intuição.</descricao>
+
+    </signo>
+
+</signos>
